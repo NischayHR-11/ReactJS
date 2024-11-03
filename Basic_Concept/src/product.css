@@ -1,0 +1,8 @@
+.product{
+
+    border: 2px solid white;
+    padding: .5rem;
+    width: 10rem;
+    margin-bottom: 3rem;
+    border-radius: 1.5rem;
+}
