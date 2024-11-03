@@ -13,7 +13,7 @@ function App() {
     // Each component can return only one Element
     // no extra div created (Recat Fragment).
     <> 
-      <ProductList/>                                   
+      <ProductList name1="Mobile" name2="Television" name3="Laptop"/>                                   
       <h1>HI Hellooo I Am Nischay</h1>
     </>
   )
