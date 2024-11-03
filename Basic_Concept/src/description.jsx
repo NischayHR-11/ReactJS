@@ -1,7 +1,7 @@
-function Description(){            // First Letter Of The Component Must Be Capital.
+function Description({price}){            // First Letter Of The Component Must Be Capital.
 
     return (
-    <p className="description">This is comment !!!</p>     // Camel Case Is used.(Class name).
+    <p className="description">Price = {price}</p>     // Camel Case Is used.(Class name).
     );
 }
 
