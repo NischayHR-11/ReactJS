@@ -11,8 +11,8 @@ function Product({title,features,oldprice,newprice}){
     <p>{list}</p>
     </div>
     <div className="bottom">
-    <p className="oldprice">{oldprice}</p>
-    <p>{newprice}</p>
+    <h3 className="oldprice">{oldprice}</h3>
+    <h3>{newprice}</h3>
     </div>
     </div>
     );
